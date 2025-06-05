@@ -17,3 +17,4 @@ build
 tutorials/ppo/wandb
 dist
 benchmark/data
+.DS_Store
